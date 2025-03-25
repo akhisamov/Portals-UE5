@@ -1,0 +1,12 @@
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vs/
+Binaries/
+Build/
+Config/DefaultEngine.ini
+Content/
+DerivedDataCache/
+Intermediate/
+Releases/
+Saved/
